@@ -1,0 +1,13 @@
+- particules tournant autour d'un axe independamment les unes des autres
+- cube de lumière
+- Pourquoi le sol n'est pas plus foncé ? Comment mettre de l'obscurité ?
+
+
+A faire :
+Rochers qui passent au dessus
+lampe de poche
+evenment qui se declent a l'approche (lumière derrière les arbres, yeux, ...)
+oiseaux
+objet texture animée + normal animée
+Particules plumes / feuilles
+Mouton qui suit et regarde (utiliser "LookAt"
